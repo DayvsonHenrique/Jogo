@@ -44,4 +44,3 @@ Eu tive bastante dificuldade no começo do projeto, principalmente na parte de o
 ## Créditos
 
 - Projeto feito por **Dayvson Henrique da Silva Mendes**  
-- Agradecimento aos colegas que me ajudaram durante o processo.
